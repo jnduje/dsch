@@ -197,48 +197,57 @@
     - Ejemplos Desafio
 ## Desafio 33
 - Storytelling, PPT
+- Ejemplos PPTs buenas y malas
 ### Clase 34 - GIS y Datos Espaciales
 - Sistemas de referencia y Proyecciones
 - Animaciones matplotlib
 - Plotly scatter/line/bar/hist/heatmap
-### Clase 35 - Analisis univariado y gráficos
+### Clase 35 - Analisis univariado y gráficos**
 - Medidas de Tendencia/Localizacion/Dispersion/Kurtosis
 - Graficos Estadisticos
-
+- Git/Github
+- Presentaciones con Jupyter
 ### Clase 36 - Análisis bivariado
 - Numerica vs Numerica
 - Numerica vs Categorica
 - Categorica vs Categorica
 - Practica:
-    - Ejemplos de los 3 tipos
+    - Ejemplos coeficientes de los 3 tipos
 ## Desafio 36
 - Storytelling, PPT
-### Clase 37 - Analisis Multivariado
+### Clase 37 - Analisis Multivariado**
 - Regresion Lineal
 - PCR
 - PLSR
 - ANN
 - SVM
 - KNN
-- PowerBI y Tableu en Jupyter
 - Repaso regresion Lineal
+- Clases Desbalanceadas
 ### Clase 38 - Workshop_ Revisión de pares
-- Presentacion del ultimo desafio 
+- Presentacion alumnos PPT del ultimo desafio 
 ## PreEntrega TP Final
 - Storytelling, PPT
 ### Clase 39 - En foco_ selección de mejora de modelos
 - Repaso ?? Mas presentaciones
+- Repaso Seleccion de modelos
+- CrossValidation en Sklearn
+- Pipelines
 ## Modulo 3
 ### Clase 40 - Introducción al Machine Learning
 - CRISP-DM
 - Encoding Dummies
 - Practica:
     - Estimadores y Transformadores
+    - Columns Selector
+    - OneHotEncoder
     - Pipelines
-### Clase 41 - Logistica
+### Clase 41 - Logistica y Bayes
 - Logistica
-### Clase 42 - CART
+- Bayes
+### Clase 42 - CART y SVM
 - Arboles
+- SVM
 ### Clase 43 - Clustering
 - KMEANS
 - DBSCAN
@@ -254,12 +263,12 @@
 ### Clase 45 - Selección del Algoritmo y entrenamiento del Modelo I
 - Metricas de Clasificacion
 - Curva ROC/AUC
+- Repaso Hiperparametros
+- GridSearchCV
 ### Clase 46 - Selección del Algoritmo y Entrenamiento del Modelo II
 - Repaso Regresion Lineal Multiple
 - Metricas de Regresion
 - Funcion de costo
-- Repaso Hiperparametros
-- GridSearchCV
 - RandomSearchCV
 - Pipelines
 ### Clase 47 - Validación de modelos - métricas
@@ -283,7 +292,6 @@
 - XGBoost
 - LigthGBM
 - Pipelines
-- HiperOpt
 - RandomSearchCV
 - HyperOpt
 ## Modulo 4
