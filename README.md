@@ -99,26 +99,44 @@
 - Metricas Regresion
 ### Clase 20* - Stack Tecnológico I
 - Bases de datos SQL NOSQL
-- Lenguajes de programacion
-- Visualizacion (PoweBI Tableau)
+- Lenguajes de programacion 
+- Visualizacion (PoweBI Tableau Streamlit)
 ### Clase 21* - Stack Tecnológico II
 - InHouse vs Cloud
-- Big Data
+- **Socializacion de Proyectos**
 ## Primer Entrega TP 
 ### Clase 22 - Repaso
 - Etapas proyecto DS
 - Numpy y Pandas
 - Seaborn
 - Estadistica Descriptiva
+- Practica:
+    - Ejemplo Remax
 ### Clase 23 - Data Acquisition I
 - Big Data Value Chain
-- Pandas CSV SQLITE POSTGRES EXCEL
-- Pickle
+- Pandas CSV (Encoding, Headers, Delimiters)
+- Google Datasets
+- Papers with Code
+- HugginFace Datasets
+- GitHub
+- EXCEL
+- Pickle,Joblib
 - PySpark
+- Practica:
+    - Buscar e importar en vivo data
+    - Joblib
+    - Exportar CSV
 ### Clase 24 - Fundamentos de bases de datos
 - DBMS 
-- Relacional NOSQL
+- Tipos de DB
+    - SQL
+    - key: value
+    - documentos
+    - grafos
+    - wide column
 - Backup
+- Practica:
+    - 5 Ejemplos con  python
 ### Clase 25* - SQL I
 - CREATE ALTER DROP TRUNCATE
 - SELECT INSERT UPDATE DELETE
@@ -132,33 +150,53 @@
 - CASE-END
 - TRANSACCIONES
 ### Clase 27 - Data Acquistion II
-- Git/GitHub
+- Arq. Cliente Servidor
+- HTTP 
+- GET/POST
 - JSON
 - APIs/Requests
-- SQLITE
-- sqlalchemy
+- Autentificacion
+- Practica:
+    - Ejemplos API (requests)
 ### Clase 28 - Data Wrangling I
 - Merge/Concat
+- Joins ?
+- ? Tiempo
+- ? STR metodos
 ### Clase 29 - Data Wrangling II
-- drop_duplicates
 - MultiIndex
-- Groupby/Apply
-- Pivot Table/Melt
+- Groupby
+- Apply (Lambdas)
+- Pivot Table
+- Melt
+- drop_duplicates
 ## Desafio
 ### Clase 30 - Workshop_ Limpieza de Data
 - Repaso Data Wrangling y recomendaciones.
+- Ejemplo en clase paso a paso de Limpieza
+- Socializacion de limpiezas
 ### Clase 31 - Exploratory Data Analysis (EDA)
 - Repaso EDA y Actividad.
-### Clase 32* - Introducción a la visualización de datos
+- Ejemplo en clase paso a paso de EDA
+- Socializacion de EDA
+### Clase 32 - Introducción a la visualización de datos
 - Buenas practicas
 - Gestalt
+- Ejemplos de malas practicas
+- Practica:
+    - Repaso Plotly
+    - Seaborn
+    - Bokeh?
 ### Clase 33* - Storytelling
 - Estructura del relato
 - Recomendaciones y errores tipicos
 - Elevator pitch
 - UX/UI
 - Leyes de Nielsen
-## Desafio
+- Practica:
+    - Ejemplos Desafio
+## Desafio 33
+- Storytelling, PPT
 ### Clase 34 - GIS y Datos Espaciales
 - Sistemas de referencia y Proyecciones
 - Animaciones matplotlib
@@ -170,6 +208,10 @@
 - Numerica vs Numerica
 - Numerica vs Categorica
 - Categorica vs Categorica
+- Practica:
+    - Ejemplos de los 3 tipos
+## Desafio 36
+- Storytelling, PPT
 ### Clase 37 - Analisis Multivariado
 - Regresion Lineal
 - PCR
@@ -177,11 +219,13 @@
 - ANN
 - SVM
 - KNN
-- PowerBI y Tableu en Jupyer
+- PowerBI y Tableu en Jupyter
 ### Clase 38 - Workshop_ Revisión de pares
-- Repaso
+- Presentacion del ultimo desafio 
+## PreEntrega TP Final
+- Storytelling, PPT
 ### Clase 39 - En foco_ selección de mejora de modelos
-- Repaso
+- Repaso ?? Mas presentaciones
 ## Modulo 3
 ### Clase 40 - Introducción al Machine Learning
 - CRISP-DM
@@ -189,7 +233,6 @@
 - Practica:
     - Estimadores y Transformadores
     - Pipelines
-
 ### Clase 41 - Algoritmos de clasificación
 - KNN
 - Random Forest
@@ -197,6 +240,7 @@
 ### Clase 42 - Algoritmos de clasificación y Regresión
 - SVM
 - Hiperparametros
+- Arboles
 ### Clase 43 - Algoritmos de Agrupación I
 - KMEANS
 - DBSCAN
@@ -224,7 +268,7 @@
 - Repaso Hiperparametros
 - GridSearchCV
 - RandomSearchCV
-### Clase 50 - Modelos de Ensamble y Boosting Models
+### Clase 50 - Boosting
 - Adaboost
 - XGBoost
 - LigthGBM
