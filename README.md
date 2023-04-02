@@ -257,7 +257,10 @@
 ### Clase 46 - Selección del Algoritmo y Entrenamiento del Modelo II
 - Repaso Regresion Lineal Multiple
 - Metricas de Regresion
-- Gridsearch
+- Funcion de costo
+- Repaso Hiperparametros
+- GridSearchCV
+- RandomSearchCV
 - Pipelines
 ### Clase 47 - Validación de modelos - métricas
 - Metricas de Clustering
@@ -272,35 +275,40 @@
 - LOOCV
 - K-Fold Cross Validation
 - Strafified K-Fold
-### Clase 49 - Mejora de modelos de Machine Learning II
-- Repaso Hiperparametros
-- GridSearchCV
-- RandomSearchCV
-- HyperOpt
+### Clase 49 - Bagging
 - Esambles
 - Bagging
 ### Clase 50 - Boosting
 - Adaboost
 - XGBoost
 - LigthGBM
+- Pipelines
+- HiperOpt
+- RandomSearchCV
+- HyperOpt
 ## Modulo 4
-### Clase 51* - Despliegue de Modelos MLOps
+### Clase 51 - MLOps
 - GoogleCloud
 - DevOps
 - DevSecOps
 - CD
 - MLOps
-### Clase 52 - Introducción a Deep Learning
-- Perceptron
-- CNN
-- RNN
-### Clase 53 - Introducción al Procesamiento de Lenguaje Natural I
-- Regex
+### Clase 52 - NLP 1
 - BOW
-- NLTK
-- TFIDF
-### Clase 54 - Introducción al Procesamiento de Lenguaje Natural II
 - Spacy
+- Stemming/Lematization
+- Stopwords
+- TFIDF
+### Clase 53 - NLP2
 - Sentiment Analysis
-### Clase 55 - Datathon
+- Lexicon
+- Aprendizaje Supervisado
+- Embeddings
+### Clase 54 - NLP 3
+- Perceptron
+- RNN
+- Transformer
+- GPT
+### Clase 55 - Repaso Final
+- Explicabilidad
 - Practica TP
