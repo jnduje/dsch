@@ -204,6 +204,7 @@
 ### Clase 35 - Analisis univariado y gráficos
 - Medidas de Tendencia/Localizacion/Dispersion/Kurtosis
 - Graficos Estadisticos
+
 ### Clase 36 - Análisis bivariado
 - Numerica vs Numerica
 - Numerica vs Categorica
@@ -220,6 +221,7 @@
 - SVM
 - KNN
 - PowerBI y Tableu en Jupyter
+- Repaso regresion Lineal
 ### Clase 38 - Workshop_ Revisión de pares
 - Presentacion del ultimo desafio 
 ## PreEntrega TP Final
@@ -233,27 +235,37 @@
 - Practica:
     - Estimadores y Transformadores
     - Pipelines
-### Clase 41 - Algoritmos de clasificación
+### Clase 41 - Logistica
 - Logistica
-### Clase 42 - Algoritmos de clasificación y Regresión
+### Clase 42 - CART
 - Arboles
-### Clase 43 - Algoritmos de Agrupación I
+### Clase 43 - Clustering
 - KMEANS
 - DBSCAN
 - HDBSCAN
-### Clase 44 - Algoritmos de agrupación II
+### Clase 44 - Reduccion Dimensionalidad
 - PCA
 - TSNE
 - ISOMAP
-- Isolation Forest
-- Minimun Covariance Determinant
-- Local Outlier Factor
+- Anomaly detection
+    - Isolation Forest
+    - Minimun Covariance Determinant
+    - Local Outlier Factor
 ### Clase 45 - Selección del Algoritmo y entrenamiento del Modelo I
 - Metricas de Clasificacion
+- Curva ROC/AUC
 ### Clase 46 - Selección del Algoritmo y Entrenamiento del Modelo II
+- Repaso Regresion Lineal Multiple
 - Metricas de Regresion
+- Gridsearch
+- Pipelines
 ### Clase 47 - Validación de modelos - métricas
 - Metricas de Clustering
+- Siluhouete
+- Rand
+- Informacion Mutua
+- Calinski-Harabaz
+- Davies-Bouldin
 ### Clase 48 - Mejora de modelos de Machine Learning I
 - Bias vs Variance
 - Evitando el overfitting
@@ -264,6 +276,9 @@
 - Repaso Hiperparametros
 - GridSearchCV
 - RandomSearchCV
+- HyperOpt
+- Esambles
+- Bagging
 ### Clase 50 - Boosting
 - Adaboost
 - XGBoost
