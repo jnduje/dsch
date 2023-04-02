@@ -186,6 +186,7 @@
 ### Clase 40 - Introducción al Machine Learning
 - CRISP-DM
 - Encoding Dummies
+- Practica:
     - Estimadores y Transformadores
     - Pipelines
 
