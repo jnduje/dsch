@@ -234,12 +234,8 @@
     - Estimadores y Transformadores
     - Pipelines
 ### Clase 41 - Algoritmos de clasificación
-- KNN
-- Random Forest
 - Logistica
 ### Clase 42 - Algoritmos de clasificación y Regresión
-- SVM
-- Hiperparametros
 - Arboles
 ### Clase 43 - Algoritmos de Agrupación I
 - KMEANS
