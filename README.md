@@ -186,6 +186,9 @@
 ### Clase 40 - Introducción al Machine Learning
 - CRISP-DM
 - Encoding Dummies
+* Estimadores y Transformadores
+* Pipelines
+
 ### Clase 41 - Algoritmos de clasificación
 - KNN
 - Random Forest
