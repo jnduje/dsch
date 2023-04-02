@@ -158,6 +158,8 @@
 - Autentificacion
 - Practica:
     - Ejemplos API (requests)
+## Desafio 27
+- Analisis de datos de una API
 ### Clase 28 - Data Wrangling I
 - Merge/Concat
 - Joins ?
@@ -170,7 +172,8 @@
 - Pivot Table
 - Melt
 - drop_duplicates
-## Desafio
+## Desafio 29
+- Data Wrangling con el TP Final
 ### Clase 30 - Workshop_ Limpieza de Data
 - Repaso Data Wrangling y recomendaciones.
 - Ejemplo en clase paso a paso de Limpieza
@@ -195,9 +198,9 @@
 - Leyes de Nielsen
 - Practica:
     - Ejemplos Desafio
+    - Ejemplos PPTs buenas y malas
 ## Desafio 33
 - Storytelling, PPT
-- Ejemplos PPTs buenas y malas
 ### Clase 34 - GIS y Datos Espaciales
 - Sistemas de referencia y Proyecciones
 - Animaciones matplotlib
@@ -205,8 +208,8 @@
 ### Clase 35 - Analisis univariado y gráficos**
 - Medidas de Tendencia/Localizacion/Dispersion/Kurtosis
 - Graficos Estadisticos
-- Git/Github
-- Presentaciones con Jupyter
+- Git/Github (ejemplo en clase)
+- Presentaciones con Jupyter 
 ### Clase 36 - Análisis bivariado
 - Numerica vs Numerica
 - Numerica vs Categorica
@@ -226,8 +229,9 @@
 - Clases Desbalanceadas
 ### Clase 38 - Workshop_ Revisión de pares
 - Presentacion alumnos PPT del ultimo desafio 
-## PreEntrega TP Final
-- Storytelling, PPT
+## 2da PreEntrega TP Final
+- Storytelling, PPT TP FINAL
+- En GitHub
 ### Clase 39 - En foco_ selección de mejora de modelos
 - Repaso ?? Mas presentaciones
 - Repaso Seleccion de modelos
@@ -248,6 +252,8 @@
 ### Clase 42 - CART y SVM
 - Arboles
 - SVM
+## Desafio 42
+- Ml Proyecto CART
 ### Clase 43 - Clustering
 - KMEANS
 - DBSCAN
@@ -265,6 +271,9 @@
 - Curva ROC/AUC
 - Repaso Hiperparametros
 - GridSearchCV
+## Desafio 45
+- Ml Proyecto CART
+- Feature Engineering
 ### Clase 46 - Selección del Algoritmo y Entrenamiento del Modelo II
 - Repaso Regresion Lineal Multiple
 - Metricas de Regresion
@@ -278,6 +287,8 @@
 - Informacion Mutua
 - Calinski-Harabaz
 - Davies-Bouldin
+## Desafio 47
+- Ultimo Desafio
 ### Clase 48 - Mejora de modelos de Machine Learning I
 - Bias vs Variance
 - Evitando el overfitting
@@ -320,3 +331,4 @@
 ### Clase 55 - Repaso Final
 - Explicabilidad
 - Practica TP
+## Entrega Final
