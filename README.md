@@ -2,9 +2,10 @@
 
 ## Índice:
 - [Modulo 1 (0-11)](#modulo-1)
-- [Modulo 2 (12-39)](#modulo-2)
-- [Modulo 3 (40-50)](#modulo-3)
-- [Modulo 4 (51-55)](#modulo-4)
+- [Modulo 2 (12-23)](#modulo-2)
+- [Modulo 3 (24-39)](#modulo-3)
+- [Modulo 4 (40-50)](#modulo-4)
+- [Modulo 5 (51-55)](#modulo-5)
 
 ## Modulo 1 
 ### Clase 0 - Introducción a la ciencia de Datos
@@ -119,6 +120,7 @@
 - Estadistica Descriptiva
 - Practica:
     - Ejemplo Remax
+## Modulo 3
 ### Clase 23 - Data Acquisition I
 - Big Data Value Chain
 - Pandas CSV (Encoding, Headers, Delimiters)
@@ -244,7 +246,7 @@
 - Repaso Seleccion de modelos
 - CrossValidation en Sklearn
 - Pipelines
-## Modulo 3
+## Modulo 4
 ### Clase 40 - Introducción al Machine Learning
 - CRISP-DM
 - Encoding Dummies
@@ -312,7 +314,7 @@
 - Pipelines
 - RandomSearchCV
 - HyperOpt
-## Modulo 4
+## Modulo 5
 ### Clase 51 - MLOps
 - GoogleCloud
 - DevOps
