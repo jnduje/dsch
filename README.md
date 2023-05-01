@@ -1,10 +1,10 @@
 # INTRODUCCION DATA SCIENCE
 
 ## Índice:
-- Modulo 1 (0-11)[o](#modulo-1)
-- Modulo 2 (0-11)[o](#modulo-2)
-- Modulo 3 (0-11)[o](#modulo-3)
-- Modulo 4 (0-11)[o](#modulo-4)
+- [Modulo 1 (0-11)](#modulo-1)
+- [Modulo 2 (12-39)](#modulo-2)
+- [Modulo 3 (40-50)](#modulo-3)
+- [Modulo 4 (51-55)](#modulo-4)
 
 ## Modulo 1 
 ### Clase 0 - Introducción a la ciencia de Datos
