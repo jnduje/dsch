@@ -54,7 +54,7 @@
 - Intro DataScience
 - Supervisado/NoSupervisado
 - Intro Scikit-Learn
-## Desafio
+#### Desafio
 ### Clase 9 - Estadística Descriptiva
 - Inferencia estadistica, p-value
 - EDA, cuantitativas/cualitivativas
@@ -80,7 +80,7 @@
 - Regresion Lineal simple y multiple.
 - p-value de los betas y R2
 - StatsModel
-## Desafio Entregable
+#### Desafio Entregable
 ### Clase 13 - Modelos Analíticos I
 - Que es un modelo?
 - Etapas de un modelo analitico
@@ -112,7 +112,7 @@
 ### Clase 21* - Stack Tecnológico II
 - InHouse vs Cloud
 - **Socializacion de Proyectos**
-## Primer Entrega TP 
+#### Primer Entrega TP 
 ### Clase 22 - Repaso
 - Etapas proyecto DS
 - Numpy y Pandas
@@ -167,7 +167,7 @@
 - Autentificacion
 - Practica:
     - Ejemplos API (requests)
-## Desafio 27
+#### Desafio 27
 - Analisis de datos de una API
 ### Clase 28 - Data Wrangling I
 - Merge/Concat
@@ -181,7 +181,7 @@
 - Pivot Table
 - Melt
 - drop_duplicates
-## Desafio 29
+#### Desafio 29
 - Data Wrangling con el TP Final
 ### Clase 30 - Workshop_ Limpieza de Data
 - Repaso Data Wrangling y recomendaciones.
@@ -208,7 +208,7 @@
 - Practica:
     - Ejemplos Desafio
     - Ejemplos PPTs buenas y malas
-## Desafio 33
+#### Desafio 33
 - Storytelling, PPT
 ### Clase 34 - GIS y Datos Espaciales
 - Sistemas de referencia y Proyecciones
@@ -225,7 +225,7 @@
 - Categorica vs Categorica
 - Practica:
     - Ejemplos coeficientes de los 3 tipos
-## Desafio 36
+#### Desafio 36
 - Storytelling, PPT
 ### Clase 37 - Analisis Multivariado**
 - Regresion Lineal
@@ -238,7 +238,7 @@
 - Clases Desbalanceadas
 ### Clase 38 - Workshop_ Revisión de pares
 - Presentacion alumnos PPT del ultimo desafio 
-## 2da PreEntrega TP Final
+#### 2da PreEntrega TP Final
 - Storytelling, PPT TP FINAL
 - En GitHub
 ### Clase 39 - En foco_ selección de mejora de modelos
