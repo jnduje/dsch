@@ -242,7 +242,8 @@
 - Storytelling, PPT TP FINAL
 - En GitHub
 ### Clase 39 - En foco_ selección de mejora de modelos
-- Repaso ?? Mas presentaciones
+- Espacio para mas presentaciones
+- Repaso Machine Learning
 - Repaso Seleccion de modelos
 - CrossValidation en Sklearn
 - Pipelines
