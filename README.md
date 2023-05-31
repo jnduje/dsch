@@ -277,14 +277,15 @@
 ### Clase 45 - Selección del Algoritmo y entrenamiento del Modelo I
 - Metricas de Clasificacion
 - Curva ROC/AUC
--* Repaso Hiperparametros
--* GridSearchCV
+
 ## Desafio 45
 - ML Proyecto CART
 - Feature Engineering
 ### Clase 46 - Selección del Algoritmo y Entrenamiento del Modelo II
 - Repaso Regresion Lineal Multiple
 - Metricas de Regresion
+- Repaso Hiperparametros
+- GridSearchCV
 - Funcion de costo
 - RandomSearchCV
 - Pipelines
