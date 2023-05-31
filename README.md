@@ -212,28 +212,26 @@
 - Storytelling, PPT
 ### Clase 34 - GIS y Datos Espaciales
 - Sistemas de referencia y Proyecciones
-- Animaciones matplotlib
-- Plotly scatter/line/bar/hist/heatmap
+- Geopandas: Puntos, Lineas y Poligonos
+- Leaflet
+- Plotly Mapas y animaciones
+- Plotly Coropletas
 ### Clase 35 - Analisis univariado y gráficos**
 - Medidas de Tendencia/Localizacion/Dispersion/Kurtosis
-- Graficos Estadisticos
-- Git/Github (ejemplo en clase)
-- Presentaciones con Jupyter 
+- Repaso Probabilidad
+- Distribuciones: Uniforme Binominal Normal
+
 ### Clase 36 - Análisis bivariado
-- Numerica vs Numerica
-- Numerica vs Categorica
-- Categorica vs Categorica
-- Practica:
-    - Ejemplos coeficientes de los 3 tipos
+- Coeficientes de Correlacion:
+    - Numerica vs Numerica
+    - Numerica vs Categorica
+    - Categorica vs Categorica
+    - Practica: Ejemplos coeficientes de los 3 tipos
 #### Desafio 36
 - Storytelling, PPT
 ### Clase 37 - Analisis Multivariado**
-- Regresion Lineal
-- PCR
-- PLSR
-- ANN
-- SVM
-- KNN
+- Git/Github (ejemplo en clase)
+- Presentaciones con Jupyter 
 - Repaso regresion Lineal
 - Clases Desbalanceadas
 ### Clase 38 - Workshop_ Revisión de pares
@@ -263,7 +261,7 @@
 - Arboles
 - SVM
 ## Desafio 42
-- Ml Proyecto CART
+- ML Proyecto CART
 ### Clase 43 - Clustering
 - KMEANS
 - DBSCAN
@@ -279,10 +277,10 @@
 ### Clase 45 - Selección del Algoritmo y entrenamiento del Modelo I
 - Metricas de Clasificacion
 - Curva ROC/AUC
-- Repaso Hiperparametros
-- GridSearchCV
+-* Repaso Hiperparametros
+-* GridSearchCV
 ## Desafio 45
-- Ml Proyecto CART
+- ML Proyecto CART
 - Feature Engineering
 ### Clase 46 - Selección del Algoritmo y Entrenamiento del Modelo II
 - Repaso Regresion Lineal Multiple
