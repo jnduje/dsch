@@ -241,14 +241,13 @@
 - En GitHub
 ### Clase 39 - En foco_ selección de mejora de modelos
 - Espacio para mas presentaciones
+- Git/GITHUB
+## Modulo 4
+### Clase 40 - Introducción al Machine Learning
 - Repaso Machine Learning
 - Repaso Seleccion de modelos
 - CrossValidation en Sklearn
 - Pipelines
-## Modulo 4
-### Clase 40 - Introducción al Machine Learning
-- CRISP-DM
-- Encoding Dummies
 - Practica:
     - Estimadores y Transformadores
     - Columns Selector
@@ -277,10 +276,9 @@
 ### Clase 45 - Selección del Algoritmo y entrenamiento del Modelo I
 - Metricas de Clasificacion
 - Curva ROC/AUC
-
-## Desafio 45
-- ML Proyecto CART
-- Feature Engineering
+- **Desafio 45**:
+    - ML Proyecto CART
+    - Feature Engineering
 ### Clase 46 - Selección del Algoritmo y Entrenamiento del Modelo II
 - Repaso Regresion Lineal Multiple
 - Metricas de Regresion
