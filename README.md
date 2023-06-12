@@ -245,22 +245,21 @@
 ## Modulo 4
 ### Clase 40 - Introducción al Machine Learning
 - Repaso Machine Learning
-- Repaso Seleccion de modelos
-- CrossValidation en Sklearn
-- Pipelines
+- Repaso CrossValidation y Seleccion de modelos
+- Funcion de Costo, espacio parametros.
+
+### Clase 41 - Logistica y NaiveBayes
 - Practica:
     - Estimadores y Transformadores
     - Columns Selector
     - OneHotEncoder
     - Pipelines
-### Clase 41 - Logistica y Bayes
 - Logistica
 - Bayes
-### Clase 42 - CART y SVM
-- Arboles
+### Clase 42 - SVM y CART
 - SVM
-## Desafio 42
-- ML Proyecto CART
+- Arboles
+- **Desafio 42 ML Proyecto CART**
 ### Clase 43 - Clustering
 - KMEANS
 - DBSCAN
@@ -273,21 +272,21 @@
     - Isolation Forest
     - Minimun Covariance Determinant
     - Local Outlier Factor
-### Clase 45 - Selección del Algoritmo y entrenamiento del Modelo I
+### Clase 45 - Metricas de Clasificacion
 - Metricas de Clasificacion
 - Curva ROC/AUC
+- Desbalance de Clases
 - **Desafio 45**:
     - ML Proyecto CART
     - Feature Engineering
-### Clase 46 - Selección del Algoritmo y Entrenamiento del Modelo II
+### Clase 46 - Metricas de Regresion
 - Repaso Regresion Lineal Multiple
 - Metricas de Regresion
 - Repaso Hiperparametros
 - GridSearchCV
-- Funcion de costo
 - RandomSearchCV
 - Pipelines
-### Clase 47 - Validación de modelos - métricas
+### Clase 47 - Metricas de Clustering
 - Metricas de Clustering
 - Siluhouete
 - Rand
