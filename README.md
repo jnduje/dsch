@@ -243,22 +243,23 @@
 - Espacio para mas presentaciones
 - Git/GITHUB
 ## Modulo 4
-### Clase 40 - Introducción al Machine Learning
+### Clase 40 - Introducción a Machine Learning
 - Repaso Machine Learning
-- Repaso CrossValidation y Seleccion de modelos
-- Funcion de Costo, espacio parametros.
-
-### Clase 41 - Logistica y NaiveBayes
+- Funcion de Costo
+- Optimizacion
+- Espacio de parametros y Normalizacion
 - Practica:
     - Estimadores y Transformadores
     - Columns Selector
     - OneHotEncoder
-    - Pipelines
+    - Pipelines?
+### Clase 41 - Logistica y NaiveBayes
 - Logistica
-- Bayes
+- Naive Bayes
 ### Clase 42 - SVM y CART
 - SVM
 - Arboles
+- Desbalance de Clases
 - **Desafio 42 ML Proyecto CART**
 ### Clase 43 - Clustering
 - KMEANS
@@ -296,6 +297,7 @@
 ## Desafio 47
 - Ultimo Desafio
 ### Clase 48 - Mejora de modelos de Machine Learning I
+- Repaso CrossValidation y Seleccion de modelos
 - Bias vs Variance
 - Evitando el overfitting
 - LOOCV
@@ -304,6 +306,7 @@
 ### Clase 49 - Bagging
 - Esambles
 - Bagging
+- Random Forest
 ### Clase 50 - Boosting
 - Adaboost
 - XGBoost
